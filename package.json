@@ -1,7 +1,7 @@
 {
-  "name": "hdl",
+  "name": "warpper-antd",
   "version": "1.0.0",
-  "description": "hdl component",
+  "description": "antd component",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/a494836960/antdWrapper/issues"
   },
-  "homepage": "https://github.com/a494836960/antdWrapper#readme"
+  "homepage": "https://github.com/a494836960/antdWrapper#readme",
+  "devDependencies": {
+    "antd": "^3.11.5"
+  }
 }
